@@ -23,7 +23,7 @@ def set_send_input():
     clear_input_field()
 
 def main():
-    st.title("Multimodal Local Chat App")
+    st.title("Hi I'm Jolo AI")
     chat_container = st.container()
     
     if "send_input" not in st.session_state:
